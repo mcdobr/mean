@@ -52,6 +52,7 @@ Mkfile.old
 dkms.conf
 
 # CMake generated files
+CMakeUserPresets.json
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -66,3 +67,4 @@ _deps
 
 # Project structure
 bin
+build
